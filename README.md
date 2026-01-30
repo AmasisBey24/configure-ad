@@ -90,7 +90,7 @@ Both Resources Should Look Like This:
 		- To fix this, we need to enable ICMPv4 on DC-1's local Windows firewall
 
 <p align="center">
-<img src="https://i.imgur.com/U6UOqj5.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f5536554f716a352e706e67 copy" src="https://github.com/user-attachments/assets/07afd0c6-cc36-4cc2-8838-e90c2e949f0c" />
 	
 - Login to DC-1 using Microsoft Remote Desktop
 	- Start > Windows Administrative Tools > Windows Defender Firewall with Advanced Security > Inbound Rules
