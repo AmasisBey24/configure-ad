@@ -121,7 +121,9 @@ Both Resources Should Look Like This:
 	- Complete the installation
 
 <p align="center">
-<img src="https://i.imgur.com/DQRVNnm.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/RpzngRi.png" height="50%" width="50%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f445152564e6e6d2e706e67" src="https://github.com/user-attachments/assets/6eac62d2-945e-4408-ad4b-56d914d35d00" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f52707a6e6752692e706e67" src="https://github.com/user-attachments/assets/e72f8fc2-c005-4ad7-bf05-23cc1248a7c1" />
+
 </p>
 
 - At the top right of the Server Manager Dashboard, click on the flag
