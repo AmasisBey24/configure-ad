@@ -130,7 +130,7 @@ Both Resources Should Look Like This:
 - Select "Promote This Server to a Domain Controller"
 
 <p align="center">
-<img src="https://i.imgur.com/GOYiTFe.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f474f59695446652e706e67 copy" src="https://github.com/user-attachments/assets/0573ea2e-cb30-4ae3-b75c-6af2a7d728a8" />
 	
  - Select "Add a New Forest"
  	- Root domain name: mydomain.com
@@ -141,7 +141,7 @@ Both Resources Should Look Like This:
 
 
 <p align="center">
-<img src="https://i.imgur.com/IjfUZ0a.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f496a66555a30612e706e67 copy" src="https://github.com/user-attachments/assets/4662fa2e-4f5d-4678-89a9-10c63b450fdc" />
 	
 - DC-1 will automatically restart
 - Log back into DC-1 as user: mydomain.com\labuser               
