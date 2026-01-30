@@ -63,7 +63,8 @@ Both Resources Should Look Like This:
 			- This ensures DC-1's IP address will not change
 	   
 <p align="center">
-<img src="https://i.imgur.com/xcyLUOG.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/ZaWdzTl.png" height="70%" width="70%" alt="Azure Free Services"/>  <img src="https://i.imgur.com/Vn0UhWm.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="Jan 30, 2026, 08_49_10 AM" src="https://github.com/user-attachments/assets/d9785d99-c904-4f6b-9abf-c57ae893713b" />
+ <img src="https://i.imgur.com/ZaWdzTl.png" height="70%" width="70%" alt="Azure Free Services"/>  <img src="https://i.imgur.com/Vn0UhWm.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
