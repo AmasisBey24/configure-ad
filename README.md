@@ -49,7 +49,7 @@ Both Resources Should Look Like This:
 		- Take note of the virtual network (vNet) that is automatically created
        
 <p align="center">
-<img src="https://i.imgur.com/mrpBWtM.png" height="70%" width="70%" alt="Azure Free Account"/>
+<img width="758" height="473" alt="Jan 30, 2026, 07_28_26 AM" src="https://github.com/user-attachments/assets/d624a341-7563-47e4-8130-17fcd2ef365b" />
 
 
 
