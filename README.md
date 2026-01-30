@@ -122,7 +122,7 @@ Both Resources Should Look Like This:
 
 <p align="center">
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f445152564e6e6d2e706e67" src="https://github.com/user-attachments/assets/6eac62d2-945e-4408-ad4b-56d914d35d00" />
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f52707a6e6752692e706e67" src="https://github.com/user-attachments/assets/e72f8fc2-c005-4ad7-bf05-23cc1248a7c1" />
+<img width="50%" height="50%" alt="68747470733a2f2f692e696d6775722e636f6d2f52707a6e6752692e706e67" src="https://github.com/user-attachments/assets/e72f8fc2-c005-4ad7-bf05-23cc1248a7c1" />
 
 </p>
 
