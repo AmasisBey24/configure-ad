@@ -76,7 +76,8 @@ Both Resources Should Look Like This:
 		- Use the same resource group and vNet as DC-1
 
 <p align="center">
-<img src="https://i.imgur.com/Vf7yeY1.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3DK41Cr.png" height="70%" width="70%" alt="Azure Free Services"/> 
+<img width="70%" height="70%" alt="Jan 30, 2026, 03_00_06 PM" src="https://github.com/user-attachments/assets/ee5cf9c6-a987-4119-89b0-3cf27b219045" />
+<img width="70%" height="70%" alt="Jan 30, 2026, 03_01_28 PM" src="https://github.com/user-attachments/assets/f80053c1-8623-425f-96f6-cd6550151ef6" />
 
 
 <h3>Step 2: Ensure Connectivity Between the Client and Domain Controller</h3>
