@@ -24,10 +24,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a free subscription: https://azure.microsoft.com/en-us/free/
+(or create a Pay As You Go)
+Step 1: Get logged into the Azure Portal: https://portal.azure.com
+Step 2: Within the Azure Portal, create a "Resource Group".
+Step 3: Create a "Storage Account" within the same "Resource Group" created in previous step.
+Step 4: Create a text file on your local desktop. (For Mac users, go to preferences and set it to plain text.)
+
+
+
+
 
 <h2>Deployment and Configuration Steps</h2>
 
