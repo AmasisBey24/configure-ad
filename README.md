@@ -34,12 +34,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 6: With the addition of uploading, you can now edit the file within the Storage Account within Azure.
 - Step 7: Download the file and you would be able to observe the file on your local desktop.
 
-<h2 style="color: red;">Now Lets Deploy and Configure VM In Azure<h2>
-# My Heading
-This is a regular heading.
-
-# <span style="color:red;">My Colored Heading</span>
-This method may not render correctly in all GitHub contexts.
+<h1>Now Lets Deploy and Configure VM In Azure<h1>
 
 <h2>Deployment and Configuration Steps</h2>
 
