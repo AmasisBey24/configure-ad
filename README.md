@@ -64,7 +64,8 @@ Both Resources Should Look Like This:
 	   
 <p align="center">
 <img width="70%" height="70%" alt="Jan 30, 2026, 08_49_10 AM" src="https://github.com/user-attachments/assets/22ace19e-8b9d-4605-abe6-a8b2566a7935" />
- <img src="https://i.imgur.com/ZaWdzTl.png" height="70%" width="70%" alt="Azure Free Services"/>  <img src="https://i.imgur.com/Vn0UhWm.png" height="70%" width="70%" alt="Azure Free Services"/>
+ <img width="70%" height="70%" alt="Jan 30, 2026, 02_06_18 PM" src="https://github.com/user-attachments/assets/729ea6cd-9b42-4c4a-94a6-1b46a2c511db" />
+  <img src="https://i.imgur.com/Vn0UhWm.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
