@@ -30,6 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 2: Within the Azure Portal, create a "Resource Group".
 - Step 3: Create a "Storage Account" within the same "Resource Group" created in previous step.
 
+<p align="center">
 Both Resources Should Look Like This:
 <img width="758" height="473" alt="image" src="https://github.com/user-attachments/assets/275f4117-6028-44ed-a9c5-d46a705ae204"/>
 
