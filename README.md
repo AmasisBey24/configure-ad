@@ -90,7 +90,7 @@ Both Resources Should Look Like This:
 		- To fix this, we need to enable ICMPv4 on DC-1's local Windows firewall
 
 <p align="center">
-<img width="1974" height="1022" alt="68747470733a2f2f692e696d6775722e636f6d2f5536554f716a352e706e67" src="https://github.com/user-attachments/assets/f83028b0-be77-4da5-b083-b0052ccc80ef" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f5536554f716a352e706e67" src="https://github.com/user-attachments/assets/f83028b0-be77-4da5-b083-b0052ccc80ef" />
 
 	
 - Login to DC-1 using Microsoft Remote Desktop
@@ -99,7 +99,9 @@ Both Resources Should Look Like This:
 	- Find "Core Networking Diagnostics" and "ICMPv4" and enable these two inbound rules
 
 <p align="center">
-<img src="https://i.imgur.com/bw6eoLh.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/BY1Ohgb.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img width="50%" height="50%" alt="Networking Diagnostics settings on Windows" src="https://github.com/user-attachments/assets/c5c9bbe5-fb04-4f3a-a1ef-4f417f14e242" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4259314f6867622e706e67 copy" src="https://github.com/user-attachments/assets/a2a6b990-c6ac-405b-bbf2-a1ed16055c2f" />
+
 </p>
 
 - Log back into Client-1 and the command line will automatically begin pinging DC-1 successfully
