@@ -36,7 +36,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h1>Now Lets Deploy and Configure VM In Azure<h1>
 
 <h2>Deployment and Configuration Steps</h2>
-
 <h3>Step 1: Setup Resources in Azure</h3>
 
 - Create two virtual machines
