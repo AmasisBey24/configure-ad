@@ -30,6 +30,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 2: Within the Azure Portal, create a "Resource Group".
 - Step 3: Create a "Storage Account" within the same "Resource Group" created in previous step.
 - Step 4: Create a text file on your local desktop. (For Mac users, go to preferences and set it to plain text.)
+- Step 5: Upload the text file you created to your Azure Storage Account.
+- Step 6: With the addition of uploading, you can now edit the file within the Storage Account within Azure.
+- Step 7: Download the file and you would be able to observe the file on your local desktop.
+
+<h2>Now Lets Deploy and Configure VM In Azure<h2>
 
 
 
