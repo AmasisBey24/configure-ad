@@ -107,7 +107,7 @@ Both Resources Should Look Like This:
 - Log back into Client-1 and the command line will automatically begin pinging DC-1 successfully
     
 <p align="center">
-<img src="https://i.imgur.com/890WIJB.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f38393057494a422e706e67" src="https://github.com/user-attachments/assets/808a92c9-1b66-48e8-ad61-6215a0d41a1d" />
 
 
 <h3>Step 3: Install Active Directory</h3>
