@@ -179,7 +179,8 @@ Both Resources Should Look Like This:
 	- Uncheck all boxes
 	- Select Next and then select Finish
 <p align="center">
-<img src="https://i.imgur.com/nv6jc9p.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/uLopQTZ.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f6e76366a6339702e706e67 copy" src="https://github.com/user-attachments/assets/6d8584cf-a57e-4749-ad67-5ca8af3b4c1d" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f754c6f7051545a2e706e67" src="https://github.com/user-attachments/assets/ab6cf60f-3bcd-48f7-a66e-c2c9c93f92f9" />
 	
 - Go to the _ADMINS OU
 - Right-click Jane Doe > select Properties
