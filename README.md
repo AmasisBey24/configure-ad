@@ -227,7 +227,8 @@ Both Resources Should Look Like This:
 
 
 <p align="center">
-<img src="https://i.imgur.com/3HxJLpe.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/J8M4zBU.png" height="50%" width="50%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f3348784a4c70652e706e674" src="https://github.com/user-attachments/assets/157fde0b-3bc5-4f78-a7a1-be516e6d6d8b" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4a384d347a42552e706e674" src="https://github.com/user-attachments/assets/2a684753-8c5d-4dbc-89ef-e3932966e77d" />
 </p>
 
 <h3>Step 6: Setup Remote Desktop for non-administrative users on Client-1
