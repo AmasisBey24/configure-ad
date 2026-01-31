@@ -192,7 +192,9 @@ Both Resources Should Look Like This:
 
 
 <p align="center">
-<img src="https://i.imgur.com/EapMhBs.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/vGb8Kx8.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4561704d6842732e706e67" src="https://github.com/user-attachments/assets/276a16ef-eb97-474b-a805-51da2db6ab44" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f764762384b78382e706e67" src="https://github.com/user-attachments/assets/54c6309c-c0c8-41e7-8f70-4726c6ae7bb0" />
+
 </p>
  
      
