@@ -147,7 +147,7 @@ Both Resources Should Look Like This:
 - Log back into DC-1 as user: mydomain.com\labuser               
 
 <p align="center">
-<img src="https://i.imgur.com/oNp39DK.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f6f4e703339444b2e706e67 copy" src="https://github.com/user-attachments/assets/efc7af4a-659b-47f7-8a93-1a8b1a8f5564" />
 	
 
 
@@ -158,7 +158,7 @@ Both Resources Should Look Like This:
 - Select Active Directory Users and Computers
 
 <p align="center">
-<img src="https://i.imgur.com/udGHbGs.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f756447486247732e706e67 copy" src="https://github.com/user-attachments/assets/c615bf2b-8639-498b-875c-b89a0615a146" />
 	
 - Right-click mydomain.com > New > Select Oranizational Unit (OU)
 - Create two OUs
@@ -166,7 +166,7 @@ Both Resources Should Look Like This:
 	- Name the second "_ADMINS"
 	
 <p align="center">
-<img src="https://i.imgur.com/5wSZuA4.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f3577535a7541342e706e67 copy" src="https://github.com/user-attachments/assets/3799dbeb-0c90-4e83-8feb-84f40c2a8987" />
 	
 	
 - Right-click mydomain.com and click Referesh to sort the new organizational units to the top
