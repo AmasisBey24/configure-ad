@@ -211,7 +211,9 @@ Both Resources Should Look Like This:
 - After it is done updating, select Restart and select Yes
 
 <p align="center">
-<img src="https://i.imgur.com/z6UesO7.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/bt0yK17.png" height="70%" width="70%" alt="Azure Free Services"/>  <img src="https://i.imgur.com/sB5edH5.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f7a365565734f372e706e671" src="https://github.com/user-attachments/assets/82e54f36-0a5c-483d-8a9f-0ffbe4babf73" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f627430794b31372e706e672" src="https://github.com/user-attachments/assets/b91a4154-def9-494f-80fb-b806e767d237" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f734235656448352e706e673" src="https://github.com/user-attachments/assets/cf75fb18-c70e-4dd4-af7d-8d9fc612c81c" />
 </p>
 
 - Log back into Client-1 using Microsoft Remote Desktop as the original local admin (labuser)
