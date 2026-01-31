@@ -227,7 +227,7 @@ Both Resources Should Look Like This:
 
 
 <p align="center">
-<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f3348784a4c70652e706e674" src="https://github.com/user-attachments/assets/157fde0b-3bc5-4f78-a7a1-be516e6d6d8b" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f3348784a4c70652e706e674" src="https://github.com/user-attachments/assets/5a35fbbc-34c2-4703-97c2-6796d0bfc8b5" />
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4a384d347a42552e706e674" src="https://github.com/user-attachments/assets/2a684753-8c5d-4dbc-89ef-e3932966e77d" />
 </p>
 
