@@ -276,9 +276,9 @@ Both Resources Should Look Like This:
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/EzgHWRs.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/hYFodxu.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="882" height="480" alt="68747470733a2f2f692e696d6775722e636f6d2f457a67485752732e706e6712" src="https://github.com/user-attachments/assets/7952c0d8-bc61-49a4-99df-ca5bd8fa7d26" />
 </p>
 
 
 
-🎉Congratulations! You have implementated on-premises Active Directory and created users within an Azure virtual machine!🎉
+✅ Congrats! That wraps up the Active Directory setup and user creation inside an Azure virtual machine.
