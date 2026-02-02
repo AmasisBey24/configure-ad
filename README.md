@@ -258,7 +258,8 @@ Both Resources Should Look Like This:
 	- You can find the script [here](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
 
 <p align="center">
-<img src="https://i.imgur.com/MpvLIbB.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4vIvre.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f4d70764c4962422e706e679" src="https://github.com/user-attachments/assets/cf92ffc1-b4c0-480e-947d-e2cdf4ece166" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f563476497672652e706e678" src="https://github.com/user-attachments/assets/49b38c92-7ba1-476b-b105-239e402999b3" />
 </p>
 
 - Click the green arrow button near the top-middle of the screen
