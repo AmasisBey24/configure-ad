@@ -244,7 +244,8 @@ Both Resources Should Look Like This:
 
  
  <p align="center">
-<img src="https://i.imgur.com/HgAXVMX.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/0QDUk5l.png" height="60%" width="60%" alt="Azure Free Services"/>
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f48674158564d582e706e676" src="https://github.com/user-attachments/assets/673ed4dc-0e17-42d3-a29e-4bf745c58646" />
+<img width="60%" height="60%" alt="68747470733a2f2f692e696d6775722e636f6d2f305144556b356c2e706e677" src="https://github.com/user-attachments/assets/4f4d1a8d-21e3-4237-8ded-6a06210cd0a4" />
 </p>
 
 <h3>Step 7: Create as many additional users as you would like and attempt to log into Client-1 with one of the users' profiles
