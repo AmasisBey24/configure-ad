@@ -270,7 +270,9 @@ Both Resources Should Look Like This:
 	- Try logging into Client-1 as user "base.milu" using the password "Password1"
 
 <p align="center">
-<img src="https://i.imgur.com/3HN1Nf4.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CeE8LGh.png" height="50%" width="50%" alt="Azure Free Services"/>  <img src="https://i.imgur.com/7ZVBp8a.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f33484e314e66342e706e6711" src="https://github.com/user-attachments/assets/7d43bc82-b95a-4a46-8435-fbedfee7d099" />
+<img width="50%" height="50%" alt="68747470733a2f2f692e696d6775722e636f6d2f436545384c47682e706e6710" src="https://github.com/user-attachments/assets/051bfd4b-ea40-4327-ab05-395e812c3625" />
+  <img src="https://i.imgur.com/7ZVBp8a.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <p align="center">
