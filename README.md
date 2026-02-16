@@ -53,13 +53,13 @@ Both Resources Should Look Like This:
 
 
 
-	- Set DC-1's Virtual Network Interface Card (vNIC) private IP address to be static
+	Set DC-1's Virtual Network Interface Card (vNIC) private IP address to be static
 		- Go to DC-1's network settings
 		- Select Networking
 		- Select the link next to Network Interface
 		- Select IP Configurations > ipconfig1
 		- Change the assignment from dynamic to static 
-			- This ensures DC-1's IP address will not change
+		- This ensures DC-1's IP address will not change
 	   
 <p align="center">
 <img width="70%" height="70%" alt="Jan 30, 2026, 08_49_10 AM" src="https://github.com/user-attachments/assets/22ace19e-8b9d-4605-abe6-a8b2566a7935" />
@@ -69,7 +69,7 @@ Both Resources Should Look Like This:
 </p>
 
 
-	- The second virtual machine will be the Client
+	The second virtual machine will be the Client
 		- Name: Client-1
 		- Image: Windows 10 Pro
 		- Use the same resource group and vNet as DC-1
@@ -92,10 +92,10 @@ Both Resources Should Look Like This:
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f5536554f716a352e706e67" src="https://github.com/user-attachments/assets/f83028b0-be77-4da5-b083-b0052ccc80ef" />
 
 	
-- Login to DC-1 using Microsoft Remote Desktop
-	- Start > Windows Administrative Tools > Windows Defender Firewall with Advanced Security > Inbound Rules
-	- Sort the list by protocols
-	- Find "Core Networking Diagnostics" and "ICMPv4" and enable these two inbound rules
+    Login to DC-1 using Microsoft Remote Desktop
+	   - Start > Windows Administrative Tools > Windows Defender Firewall with Advanced Security > Inbound Rules
+	   - Sort the list by protocols
+	   - Find "Core Networking Diagnostics" and "ICMPv4" and enable these two inbound rules
 
 <p align="center">
 <img width="50%" height="50%" alt="Networking Diagnostics settings on Windows" src="https://github.com/user-attachments/assets/c5c9bbe5-fb04-4f3a-a1ef-4f417f14e242" />
@@ -111,13 +111,13 @@ Both Resources Should Look Like This:
 
 <h3>Step 3: Install Active Directory</h3>
 
-- Log back into DC-1
-	- Open Server Manager
-	- Select "Add Roles and Features" > Follow the prompts
-	- At Server Roles, check "Active Directory Domain Services."
-		- Ignore how the picture below already says "Installed"
-	- Select Add Features > select Next
-	- Complete the installation
+   Log back into DC-1
+	 - Open Server Manager
+	 - Select "Add Roles and Features" > Follow the prompts
+	 - At Server Roles, check "Active Directory Domain Services."
+	 - Ignore how the picture below already says "Installed"
+	 - Select Add Features > select Next
+	 - Complete the installation
 
 <p align="center">
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f445152564e6e6d2e706e67" src="https://github.com/user-attachments/assets/6eac62d2-945e-4408-ad4b-56d914d35d00" />
@@ -131,19 +131,19 @@ Both Resources Should Look Like This:
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f474f59695446652e706e67 copy" src="https://github.com/user-attachments/assets/0573ea2e-cb30-4ae3-b75c-6af2a7d728a8" />
 	
- - Select "Add a New Forest"
- 	- Root domain name: mydomain.com
-- Select Next
-- Create a password
-- Select Next and follow the prompts
-- Select Install to complete the installation
+  - Select "Add a New Forest"
+  - Root domain name: mydomain.com
+  - Select Next
+  - Create a password
+  - Select Next and follow the prompts
+  - Select Install to complete the installation
 
 
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f496a66555a30612e706e67 copy" src="https://github.com/user-attachments/assets/4662fa2e-4f5d-4678-89a9-10c63b450fdc" />
 	
-- DC-1 will automatically restart
-- Log back into DC-1 as user: mydomain.com\labuser               
+  - DC-1 will automatically restart
+  - Log back into DC-1 as user: mydomain.com\labuser               
 
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f6f4e703339444b2e706e67 copy" src="https://github.com/user-attachments/assets/efc7af4a-659b-47f7-8a93-1a8b1a8f5564" />
@@ -152,41 +152,41 @@ Both Resources Should Look Like This:
 
 <h3>Step 4: Create an Admin and Normal User Account in Active Directory v1.15.8</h3>
      
-- On DC-1, open Server Manager
-- Click Tools at the top-right of the screen
-- Select Active Directory Users and Computers
+  - On DC-1, open Server Manager
+  - Click Tools at the top-right of the screen
+  - Select Active Directory Users and Computers
 
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f756447486247732e706e67 copy" src="https://github.com/user-attachments/assets/c615bf2b-8639-498b-875c-b89a0615a146" />
 	
-- Right-click mydomain.com > New > Select Oranizational Unit (OU)
-- Create two OUs
-	- Name the first "_EMPLOYEES"
-	- Name the second "_ADMINS"
+Right-click mydomain.com > New > Select Oranizational Unit (OU)
+  - Create two OUs
+  - Name the first "_EMPLOYEES"
+  - Name the second "_ADMINS"
 	
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f3577535a7541342e706e67 copy" src="https://github.com/user-attachments/assets/3799dbeb-0c90-4e83-8feb-84f40c2a8987" />
 	
 	
-- Right-click mydomain.com and click Referesh to sort the new organizational units to the top
-- Go to the _ADMINS OU
-- Right-click the name of the OU > New > User
-	- First/Last name: Jane Doe
-	- User login name: jane_admin
-	- Select Next
-	- Create a password
-	- Uncheck all boxes
-	- Select Next and then select Finish
+ - Right-click mydomain.com and click Referesh to sort the new organizational units to the top
+ - Go to the _ADMINS OU
+ - Right-click the name of the OU > New > User
+ - First/Last name: Jane Doe
+ - User login name: jane_admin
+ - Select Next
+ - Create a password
+ - Uncheck all boxes
+ - Select Next and then select Finish
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f6e76366a6339702e706e67 copy" src="https://github.com/user-attachments/assets/6d8584cf-a57e-4749-ad67-5ca8af3b4c1d" />
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f754c6f7051545a2e706e67" src="https://github.com/user-attachments/assets/ab6cf60f-3bcd-48f7-a66e-c2c9c93f92f9" />
 	
-- Go to the _ADMINS OU
-- Right-click Jane Doe > select Properties
-	- Click the tab named "Member of" > select Add
-	- Type in the names of your domain administrators
-	- Select "Check Names" > OK > Apply
-- Log out of DC-1 as "labuser" and log back in as “mydomain.com\jane_admin”
+ Go to the _ADMINS OU
+  - Right-click Jane Doe > select Properties
+  - Click the tab named "Member of" > select Add
+  - Type in the names of your domain administrators
+  - Select "Check Names" > OK > Apply
+  - Log out of DC-1 as "labuser" and log back in as “mydomain.com\jane_admin”
 
 
 
@@ -201,13 +201,13 @@ Both Resources Should Look Like This:
 <h3>Step 5: Join Client-1 to your domain (mydomain.com)
 </h3>
 
-- Go back to the Azure portal
-- Navigate to the Client-1 Virtual Machine
-- On the left-hand side of the screen select Networking
-- Select the link next to the NIC > select DNS Server > Custom
-- Type in DC-1's private IP address
-- Click Save
-- After it is done updating, select Restart and select Yes
+  - Go back to the Azure portal
+  - Navigate to the Client-1 Virtual Machine
+  - On the left-hand side of the screen select Networking
+  - Select the link next to the NIC > select DNS Server > Custom
+  - Type in DC-1's private IP address
+  - Click Save
+  - After it is done updating, select Restart and select Yes
 
 <p align="center">
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f7a365565734f372e706e671" src="https://github.com/user-attachments/assets/82e54f36-0a5c-483d-8a9f-0ffbe4babf73" />
@@ -215,14 +215,14 @@ Both Resources Should Look Like This:
 <img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f734235656448352e706e673" src="https://github.com/user-attachments/assets/cf75fb18-c70e-4dd4-af7d-8d9fc612c81c" />
 </p>
 
-- Log back into Client-1 using Microsoft Remote Desktop as the original local admin (labuser)
-- Right-click the Start menu and select System
-- On right-hand side of the screen, select Rename This PC (Advanced) > Change
-- Under "Member of," select Domain
-- Type "mydomain.com" and select OK
-	- Username: mydomain.com\jane_admin
-	- Type in password and press OK
-- Restart the computer 			
+  - Log back into Client-1 using Microsoft Remote Desktop as the original local admin (labuser)
+  - Right-click the Start menu and select System
+  - On right-hand side of the screen, select Rename This PC (Advanced) > Change
+  - Under "Member of," select Domain
+  - Type "mydomain.com" and select OK
+  - Username: mydomain.com\jane_admin
+  - Type in password and press OK
+  - Restart the computer 			
 
 
 <p align="center">
