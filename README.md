@@ -94,7 +94,7 @@ Both Resources Should Look Like This:
 	   - Find "Core Networking Diagnostics" and "ICMPv4" and enable these two inbound rules
 
 <p align="center">
-<img width="50%" height="50%" alt="Networking Diagnostics settings on Windows" src="https://github.com/user-attachments/assets/c5c9bbe5-fb04-4f3a-a1ef-4f417f14e242" />
+<img width="50%" height="50%" alt="68747470733a2f2f692e696d6775722e636f6d2f627736656f4c682e706e67 copy" src="https://github.com/user-attachments/assets/80dd3925-c9bd-409b-af20-ffbea650e503" />
 <img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f4259314f6867622e706e67 copy" src="https://github.com/user-attachments/assets/a2a6b990-c6ac-405b-bbf2-a1ed16055c2f" />
 
 </p>
