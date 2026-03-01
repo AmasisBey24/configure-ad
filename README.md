@@ -45,7 +45,7 @@ Both Resources Should Look Like This:
 		- Take note of the virtual network (vNet) that is automatically created
        
 <p align="center">
-<img width="758" height="473" alt="Jan 30, 2026, 07_28_26 AM" src="https://github.com/user-attachments/assets/d624a341-7563-47e4-8130-17fcd2ef365b" />
+<img width="80%" height="80%" alt="68747470733a2f2f692e696d6775722e636f6d2f6d72704257744d2e706e67 copy" src="https://github.com/user-attachments/assets/838db57f-d4fe-480b-a2ea-14e9eb7d4f4b" />
 
 
 
@@ -58,9 +58,9 @@ Both Resources Should Look Like This:
 		- This ensures DC-1's IP address will not change
 	   
 <p align="center">
-<img width="70%" height="70%" alt="Jan 30, 2026, 08_49_10 AM" src="https://github.com/user-attachments/assets/22ace19e-8b9d-4605-abe6-a8b2566a7935" />
-<img width="70%" height="70%" alt="Jan 30, 2026, 02_06_18 PM" src="https://github.com/user-attachments/assets/729ea6cd-9b42-4c4a-94a6-1b46a2c511db" />
-<img width="70%" height="70%" alt="Jan 30, 2026, 02_35_20 PM" src="https://github.com/user-attachments/assets/b2dc7d4c-e669-43fe-8cc3-b0e0ceb77877" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f7863794c554f472e706e67 copy" src="https://github.com/user-attachments/assets/2d2164f8-9078-4a6a-b862-80d69ce91e24" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f5a6157647a546c2e706e67 copy" src="https://github.com/user-attachments/assets/0f48377e-258d-4a01-91c0-676cf08bde2a" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f566e305568576d2e706e67 copy" src="https://github.com/user-attachments/assets/e4897961-9c2d-4fce-995b-30d2b7cd7477" />
 
 </p>
 
@@ -71,8 +71,8 @@ Both Resources Should Look Like This:
 		- Use the same resource group and vNet as DC-1
 
 <p align="center">
-<img width="70%" height="70%" alt="Jan 30, 2026, 03_00_06 PM" src="https://github.com/user-attachments/assets/ee5cf9c6-a987-4119-89b0-3cf27b219045" />
-<img width="70%" height="70%" alt="Jan 30, 2026, 03_01_28 PM" src="https://github.com/user-attachments/assets/f80053c1-8623-425f-96f6-cd6550151ef6" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f566637796559312e706e67 copy" src="https://github.com/user-attachments/assets/37ba44a0-5dcb-4ed1-ab4f-7ded082a469a" />
+<img width="70%" height="70%" alt="68747470733a2f2f692e696d6775722e636f6d2f33444b343143722e706e67 copy" src="https://github.com/user-attachments/assets/f0bc3861-96a5-46aa-ba03-133c6fec61a9" />
 
 
 <h3>Step 2: Ensure Connectivity Between the Client and Domain Controller</h3>
